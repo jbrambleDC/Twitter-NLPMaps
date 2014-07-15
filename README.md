@@ -2,7 +2,7 @@ Twitter-NLPMaps
 ===============
 
 Tokenize tweets to determine net sentiments and locations, generate Viz for states mean sentiment
-
+for background on this data science study read this : https://medium.com/@JBramVB/mapping-happiness-with-twitter-natural-language-processing-ac231e70fe7
 
 In order to Run: First download a shapefile for US states and provinces, package into the repository: http://www.naturalearthdata.com/downloads/
 
